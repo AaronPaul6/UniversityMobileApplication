@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395071579614",
+    "project_id": "kurdsitan-technical-institute",
+    "storage_bucket": "kurdsitan-technical-institute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395071579614:android:ca86489d8caaa5cd1a694f",
+        "android_client_info": {
+          "package_name": "com.arya.kti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395071579614-t4kald093rmjs0hfl48letrgeincrv1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E9QIatXjKoLtSn2hgQ44gPThNn49iOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395071579614-t4kald093rmjs0hfl48letrgeincrv1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

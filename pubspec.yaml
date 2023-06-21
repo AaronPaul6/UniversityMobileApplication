@@ -1,0 +1,47 @@
+name: arya_kti
+description: Institute
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  fancy_avatar: ^0.0.4
+  cupertino_icons: ^1.0.5
+  google_fonts: ^4.0.1
+  flutter_svg: any
+  sizer: ^2.0.15
+  flutter_social_button: ^1.1.4+1
+  flutter_email_sender: ^5.2.0
+  pdf_viewer_plugin: ^2.0.1
+
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.8
+  video_player: ^2.5.1
+  youtube_player_iframe: ^4.0.4
+  youtube_player_flutter: ^8.1.2
+  google_maps_flutter_web: ^0.4.0+5
+  webview_flutter: ^4.0.2
+  carousel_slider: ^4.2.1
+  firebase_core: ^2.7.0
+  firebase_messaging: ^14.2.5
+  cloud_firestore: ^4.4.3
+  firebase_auth: ^4.6.2
+  flutter_local_notifications: ^13.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/videos/
